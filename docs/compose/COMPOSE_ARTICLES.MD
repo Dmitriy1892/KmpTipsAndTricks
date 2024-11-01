@@ -1,0 +1,2 @@
+- BasicTextField tips and tricks - [link](https://proandroiddev.com/command-your-user-inputs-with-jetpack-compose-text-field-features-hidden-in-plain-sight-47aaacc56aaf)
+- BottomSheet customizations - [link](https://medium.com/turo-engineering/customizable-bottom-sheet-with-flexible-configuration-for-compose-36953b10b758)

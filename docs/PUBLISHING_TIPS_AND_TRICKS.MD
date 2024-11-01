@@ -1,0 +1,1 @@
+1. Article with automation for Google Play and Huawei AppGallery publishing - https://habr.com/ru/articles/732550/
