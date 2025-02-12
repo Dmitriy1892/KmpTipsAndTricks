@@ -1,2 +1,3 @@
 - Cocoapods installation - https://stackoverflow.com/questions/14202255/pod-install-bash-pod-command-not-found/40317060#40317060
 - Xcode xip/dmg download - https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file
+- Set up ADB on Mac - https://medium.com/@navjotsingh.official/android-developer-a0f2c4872570
